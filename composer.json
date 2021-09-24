@@ -1,0 +1,10 @@
+{
+    "name": "swf/wechat",
+    "authors": [
+        {
+            "name": "sangshu",
+            "email": "sangweifang@163.com"
+        }
+    ],
+    "require": {}
+}
