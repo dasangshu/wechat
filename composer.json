@@ -6,5 +6,6 @@
             "email": "sangweifang@163.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
